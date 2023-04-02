@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 --- -->
 
-# 个人简介
-- 你好，我叫冰砸，是一名在读大学生，很高兴您访问我的个人主页。
+# about me
+I'm third year undergraduate student from [School of SE](https://ss.nuc.edu.cn/),[THE NORTH UNIVERSITY OF CHINA](http://www.nuc.edu.cn/)
+
+Thank you for your visit!
 
